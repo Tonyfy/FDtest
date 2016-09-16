@@ -1,0 +1,26 @@
+# CMake generation dependency list for this directory.
+F:/fandy/hack/FDtest/CMakeLists.txt
+F:/fandy/hack/FDtest/build/CMakeFiles/3.1.0-rc2/CMakeSystem.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.1/Modules/CMakeSystemSpecificInitialize.cmake
+F:/fandy/hack/FDtest/build/CMakeFiles/3.1.0-rc2/CMakeCCompiler.cmake
+F:/fandy/hack/FDtest/build/CMakeFiles/3.1.0-rc2/CMakeCXXCompiler.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.1/Modules/CMakeSystemSpecificInformation.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.1/Modules/CMakeGenericSystem.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.1/Modules/Platform/Windows.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.1/Modules/Platform/WindowsPaths.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.1/Modules/CMakeCInformation.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.1/Modules/Platform/Windows-MSVC-C.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.1/Modules/Platform/Windows-MSVC.cmake
+F:/fandy/hack/FDtest/build/CMakeFiles/3.1.0-rc2/CMakeRCCompiler.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.1/Modules/CMakeRCInformation.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.1/Modules/CMakeCommonLanguageInclude.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.1/Modules/CMakeCXXInformation.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.1/Modules/Platform/Windows-MSVC-CXX.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.1/Modules/Platform/Windows-MSVC.cmake
+D:/Program Files (x86)/CMake/share/cmake-3.1/Modules/CMakeCommonLanguageInclude.cmake
+D:/Program Files (x86)/opencv248/opencv/build/OpenCVConfig-version.cmake
+D:/Program Files (x86)/opencv248/opencv/build/OpenCVConfig.cmake
+D:/Program Files (x86)/opencv248/opencv/build/x86/vc12/lib/OpenCVConfig.cmake
+D:/Program Files (x86)/opencv248/opencv/build/x86/vc12/lib/OpenCVModules.cmake
+D:/Program Files (x86)/opencv248/opencv/build/x86/vc12/lib/OpenCVModules-debug.cmake
+D:/Program Files (x86)/opencv248/opencv/build/x86/vc12/lib/OpenCVModules-release.cmake
