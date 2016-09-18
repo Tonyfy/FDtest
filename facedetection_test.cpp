@@ -40,12 +40,12 @@
 #include "face_detection.h"
 
 int main(int argc, char** argv) {
-  const char* img_path = "../aa.jpg";
+  const char* img_path = "../img_14278.jpg";
   seeta::FaceDetection detector("../model/seeta_fd_frontal_v1.0.bin");
 
   detector.SetMinFaceSize(20);
   detector.SetScoreThresh(2.f);
-  detector.SetImagePyramidScaleFactor(0.9f);
+  detector.SetImagePyramidScaleFactor(0.8f);
   detector.SetWindowStep(3, 3);
 
   cv::Mat img = cv::imread(img_path, cv::IMREAD_UNCHANGED);
@@ -79,7 +79,7 @@ int main(int argc, char** argv) {
   cv::namedWindow("Test", cv::WINDOW_AUTOSIZE);
   cv::imshow("Test", img);
   cv::waitKey(0);
-  std::string outpath = "../aa_out.jpg";
+  std::string outpath = "../img_14278_out.jpg";
   cv::imwrite(outpath, img);
   cv::destroyAllWindows();
 }
